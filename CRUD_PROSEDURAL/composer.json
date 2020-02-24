@@ -1,0 +1,6 @@
+{
+    "name": "anti-malware/crud",
+    "require": {
+        "twig/twig": "~1.0"
+    }
+}
