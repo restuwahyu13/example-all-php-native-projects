@@ -1,6 +1,6 @@
 ## Example Simple All PHP Native Project
 
-**Berikut** adalah simple **PHP** project menggunakan  **PHP Native** CRUD
+**Berikut** adalah simple **PHP** projects menggunakan  **PHP Native**
 
 #### Example Project:
 - PHP CRUD
