@@ -2,12 +2,12 @@
 
 **Berikut** adalah simple **PHP** projects menggunakan  **PHP Native**
 
-#### Example Project:
+#### Example Projects:
 - PHP CRUD
 - PHP CRUD AJAX
 - PHP CRUD MVC
 
-#### Feature Project:
+#### Feature Projects:
 - [x] Create, Read, Delete, Update and Search
 - [x] Pagination and Pagination Ajax
 - [x] Notification With Sweet Alert
